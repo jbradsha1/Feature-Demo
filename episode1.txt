@@ -1,3 +1,4 @@
+#Add title, episode1.txt
 Turmoil has engulfed the
 Galactic Republic. The taxation
 of trade routes to outlying star
@@ -10,7 +11,7 @@ Federation has stopped all
 shipping to the small planet
 of Naboo.
 
-While the Congress of the
+While the Senate of the
 Republic endlessly debates
 this alarming chain of events,
 the Supreme Leader has
